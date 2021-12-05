@@ -1,6 +1,6 @@
  # OG Username Finder
  
-ok, let's make this quick.
-1 just don't move the jar out of this folder, and you're good
+
+1 just don't move the jar out of it's folder, and you're good (it will attempt to create files in it's current folder)
+
 2 run the program using the bat file, if there is no bat file, then just run the jar, and it will create all necessary files
-3 why does a FREE ide have better grammar checking than PAID grammarly?
