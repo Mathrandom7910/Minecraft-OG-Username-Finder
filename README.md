@@ -1,4 +1,5 @@
- # OG Username Finder
+<img src="https://img.shields.io/github/downloads/Mathrandom7910/Minecraft-OG-Username-Finder/total.svg"></img>
+# OG Username Finder
  
 
 1 just don't move the jar out of it's folder, and you're good (it will attempt to create files in it's current folder)
